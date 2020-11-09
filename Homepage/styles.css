@@ -1,0 +1,56 @@
+#where
+{
+    color: rgb(13, 13, 63);
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+#strip
+{
+    background-color: aliceblue;
+}
+
+.labels
+{
+    color: black;
+    text-align: center;
+    font-family: Roberto;
+    background-color: aliceblue;
+}
+
+.labelstrip
+{
+    background-color: rgb(103, 116, 230);
+}
+
+.btn-group
+{
+    display: flex;
+}
+
+.space
+{
+    padding: 7px;
+}
+
+.sectionUnderlines
+{
+    width: 45%;
+    margin-left: 0%
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linkLabels
+{
+    font-size: 50px;
+    font-family: Roboto;
+    text-decoration: underline;
+    color: rgb(51, 5, 65);
+}
